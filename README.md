@@ -32,5 +32,5 @@
 <p align="center">
 <a href="https://t.me/nickbesp"><img src="https://img.shields.io/badge/-nickbesp-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
 <a href="https://instagram.com/nickbesp/"><img src="https://img.shields.io/badge/-nickbesp-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://vk.com/nick_besp"><img src="https://img.shields.io/badge/-nick_besp-blue?style=flat&logo=VK&logoColor=white"></a>
+<a href="https://vk.com/nick_besp"><img src="https://img.shields.io/badge/-nickbesp-blue?style=flat&logo=VK&logoColor=white"></a>
 </p>
