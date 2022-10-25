@@ -10,8 +10,8 @@
 
 ### 👨‍🏫 My knowledge
 
-![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)\
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)\
+![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python);
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white);
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
 ### ⚙️ GitHub Analytics
