@@ -12,6 +12,7 @@
 
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
+![SQLite3](https://img.shields.io/badge/-SQLite3-white?style=flat&logo=sqlite&logoColor=blue)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
 ### ⚙️ GitHub Analytics
