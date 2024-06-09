@@ -6,7 +6,7 @@
 👀 I’m interested in IT and basketball\
 🌱 I’m currently learning Python and more about ML and AI\
 📫 Text me here <nikitabesp85@gmail.com> or in the other social networks below\
-🧩 I don't have much free time, but I prefer to spend it learning something new, reading or playing computer games
+🧩 I don't have much free time, but I prefer to spend it learning something new, reading or doing sports
 
 ### 👨‍🏫 My knowledge
 
