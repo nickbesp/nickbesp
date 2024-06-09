@@ -2,7 +2,7 @@
 
 ### ✌ About me
 
-👨‍🎓 I'm a student, I'm studying in 146 school in Perm and I'm 16 y.o.\
+👨‍🎓 I'm a student, I've graduated form school №146 in Perm, Russia and I'm 17 y.o.\
 👀 I’m interested in IT and basketball\
 🌱 I’m currently learning Python and more about ML and AI\
 📫 Text me here <nikitabesp85@gmail.com> or in the other social networks below\
